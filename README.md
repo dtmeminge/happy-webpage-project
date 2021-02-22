@@ -1,9 +1,5 @@
 # happy-webpage-project
 
-    <center><h1>Welcome!</h1></center>
-	<center><h2>Welcome to my Happy webpage</h2></center>
-<td><center><img src="Smile.jpg" width="500" height="281"></center></td>
-
 <p><br>Dallis's Happy Webpage was created on December 2, 2020 in Sparta, GA. It all started from a guy name Dallis Meminger. His idea was to create a webpage was for people in the city of Sparta would enjoy. 
 The webpage is designed for those who struggle with being happy. By visting this page, it help to make you smile while everything on the webpage is positive.</br></p>
 <p><br>At Dallis's Happy Webpage, we have varies types of  interesting things that we take pride in making you feel comfortable on the site. There will be many different things that you can check as far as images, videos, and audio. We are known for our videos that users love to watch. We want this page to grow each and everyday. 

@@ -1,0 +1,27 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+.section {
+  border: 5px outset navy;
+  background-color: lightblue;    
+  text-align: center;
+}
+
+row {
+  background-color: yellow;
+  list-style-type: none;
+  text-align: center; 
+  padding: 0;
+  margin: 0;
+}
+
+row li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+}

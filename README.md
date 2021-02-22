@@ -1,33 +1,5 @@
 # happy-webpage-project
 
-<!DOCTYPE html>
-<html>
-<html lang="en">
-  <head>
-    <title> Dallis's Happy Place Webpage</title>
-	 <link rel="stylesheet" href="styles.css">
-	 
-	 </head>
-	  <body>
-	   <header class="col-sm-12">
-   <div class="row">
-   
-   
-    <!-- Ordered List -->
-    <div class="row"
-		 <h3> Menu </h3>
-		 <nav class="col-sm-12">
-		 <nav class="navbar navbar-dark bg-success">
-		 <ul style="list-style: none;">
-
-		  <li><a href="http://ccuresearch.coastal.edu/dtmeminge/csci375fa20/index.html">Home</a></li>
-		   <li><a href="http://ccuresearch.coastal.edu/dtmeminge/csci375fa20/commercial.html">Commercial</a></li>
-		    </ul>
-		 </nav>
-		 </nav>
-		 </div>
-		 <!-- Page Title -->
-     <div>
     <center><h1>Welcome!</h1></center>
 	<center><h2>Welcome to my Happy webpage</h2></center>
 <td><center><img src="Smile.jpg" width="500" height="281"></center></td>
